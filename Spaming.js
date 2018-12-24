@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 var ServerID = "526697815678648331"; 
-var ChannelID = "526697919542460416";
+var ChannelID = "526796944576610355";
 
 client.on('warn', console.warn);
 
